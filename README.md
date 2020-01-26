@@ -8,4 +8,4 @@ Hello! My name is Faraz Khan and I am currently a graduate student pursuing a Ma
 I hope to learn how to create accessible and meaningful visualizations of complex data. I enjoy storytelling and now I am trying to do the same with data. I have experience working with data and using it to build models, but I am now hoping to find useful data on a policy issue that I care about to tell a story. I will be joining public sector consulting for a tech company upon graduation and will need excellent data visualization skills to help solve my clients' complex problems. As my former manager once told, "people buy good solutions, not just good technology". Being able to combine my data and visualization skills will push me to become a more concise and prepared presenter. I am excited to get to work this semester!
 
 # Portfolio
-Data Visualization Project #1:
+Data Visualization Project #1: https://github.com/khanfh16/KhanPortfolio/blob/master/dataviz2.md
