@@ -10,3 +10,5 @@ I hope to learn how to create accessible and meaningful visualizations of comple
 # Portfolio
 
 [Data Visualization Assignment#2](/dataviz2.md)
+
+[test](https://khanfh16.github.io/KhanPortfolio/dataviztest)
