@@ -9,4 +9,4 @@ I hope to learn how to create accessible and meaningful visualizations of comple
 
 # Portfolio
 
-[Data Visualization Assignment#2](https://github.com/khanfh16/KhanPortfolio/blob/master/dataviz2.md)
+[Data Visualization Assignment#2](/dataviz2.md)
