@@ -14,14 +14,7 @@ I decided to sketch out a the following solution and shared it with a couple col
 
 
 
-Both individuals thought that the number of asylum cases denied were increasing at a rapid rate. They thought the trendline was meant to communicate the increasing nature, but I had to point the percetnage 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+Both individuals thought that the number of asylum cases denied were increasing at a rapid rate. They thought the trendline was meant to communicate the increasing nature, but I had to point out the percentage of asylum cases denied on the right-hand side. This helped me rethink the labeling more and include a key. They were both surprised by the increasing number of asylum cases being denied, but later acknowledged that the visualization speaks to the controversial nature of the current immigration policy. One of them thought that the intended audience was "liberals", while the other thought it would be policymakers. I did not realize that when I first looked at the visual; I thought it was more geared towards researchers and newspaper publishers. They both liked the visual as it was presented to them and agreed that I did not need to include the raw values of cases approved; it would have taken away from the message and be considered "chart junk". 
 
 
 ## Step 3: Re-creating Visualization:
