@@ -10,9 +10,9 @@ I used the data provided by Syracuse University on the number of asylum seekers 
 At first glance, this visualizations is not too bad. It has a clear title, legend, and proper labels. However, I could not help but notice that the number of asylum seekers who were accepted were highlighted in green. I can understand the reasoning behind why the researchers may have chosen green (i.e. it symbolizes positivity, etc.), but it is what I noticed first. That is clearly not the message of the chart; the authors are trying to communicate that the number of asylum seekers denied entry is rising at historic rates. Additionally, number of asylum seekers who were accepted is not necessary to tell the story; the percentage denied trend line shows that it is increasing. Lastly, the key may be distaracting to the viewers and it needs to be repositioned.
 
 ## Step 2: Wireframing a Solution
-I decided to sketch out a the following solution and shared it with a couple colleagues for their feedback:
+I decided to sketch out a the following solution and shared it with a couple colleagues for their feedback.
 
- !(/DataVizWF1.jpeg)
+ [My sketch:](/DataVizWF1.jpeg)
 
 Both individuals thought that the number of asylum cases denied were increasing at a rapid rate. They thought the trendline was meant to communicate the increasing nature, but I had to point out the percentage of asylum cases denied on the right-hand side. This helped me rethink the labeling more and include a key. They were both surprised by the increasing number of asylum cases being denied, but later acknowledged that the visualization speaks to the controversial nature of the current immigration policy. One of them thought that the intended audience was "liberals", while the other thought it would be policymakers. I did not realize that when I first looked at the visual; I thought it was more geared towards researchers and newspaper publishers. They both liked the visual as it was presented to them and agreed that I did not need to include the raw values of cases approved; it would have taken away from the message and be considered "chart junk". 
 
