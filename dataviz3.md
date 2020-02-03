@@ -18,6 +18,6 @@ Both individuals thought that the number of asylum cases denied were increasing 
 
 
 ## Step 3: Re-creating Visualization
-My final visualization can be found [here](https://public.tableau.com/views/Assignment3_15806979417020/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link)
+My final visualization can be found [here](https://public.tableau.com/views/Assignment3_15806979417020/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link).
 
 ## Discussion
