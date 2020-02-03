@@ -7,4 +7,6 @@ I used the data provided by Syracuse University on the number of asylum seekers 
 
 ### ![Figure 1: Visualization Created by the Research Team](/DataVizAsylumCases.png)
 
-At first glance, this visualizations is not too bad. It has a clear title, legend, and proper labels. However, I could not help but notice that the number of asylum seekers who were accepted were highlighted in green. I can understand the reasoning behind why the researchers choce green (i.e. it symbolizes positivity, etc.), but it is what I noticed first. That is clearly not the message of the chart; the authors are trying to communicate that the number of asylum seekers denied entry is rising at historic rates. 
+At first glance, this visualizations is not too bad. It has a clear title, legend, and proper labels. However, I could not help but notice that the number of asylum seekers who were accepted were highlighted in green. I can understand the reasoning behind why the researchers may have chosen green (i.e. it symbolizes positivity, etc.), but it is what I noticed first. That is clearly not the message of the chart; the authors are trying to communicate that the number of asylum seekers denied entry is rising at historic rates. Additionally, number of asylum seekers who were accepted is not necessary to tell the story; the percentage denied trend line shows that it is increasing. Lastly, the key may be distaracting to the viewers and it not needed if the number accepted is eliminated from the chart.
+
+## Step 2: Wireframing a Solution
