@@ -17,7 +17,7 @@ The publicly available datasets (see below) will allow me to conduct in-depth an
 #### Median Value of Home:
 [Median Value of Home, by Census Tract (2010 ACS 5-Year Estimate](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_SF4_B25077&prodType=table)
 
-[Median Value of Home, by Census Tract (2000 SF-4](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF4_HCT066&prodType=table)
+[Median Value of Home, by Census Tract (2000 SF-4)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF4_HCT066&prodType=table)
 
 #### Percentage of the population 25+ years of age holding a Bachelor’s Degree:
 [Bachelor’s Degree for Population 25+ Years Old (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_S1501&prodType=table)
