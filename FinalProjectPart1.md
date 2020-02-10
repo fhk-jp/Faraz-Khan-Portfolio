@@ -9,7 +9,7 @@ Source: [Governing](https://www.governing.com/gov-data/gentrification-report-met
 I will be using Shorthand for my project. The project will open with key terms (i.e. gentrification, displacement, etc.) and then highlight a key figure (“X% of neighborhoods with lower incomes and home values in Chicago experienced gentrification between 2000 and 2010”). Next, I’ll introduce before-and-after images of neighborhoods that experienced “severe gentrification” and tell an interesting story about (“Logan Square was run by X% local business owners…and now, it’s X%). I will move onto interactive maps that show the “hot spots” or areas that were severely gentrified and also compare key statistics such as median household income, housing prices, etc. between 2000 and 2010. I will end by unpacking myths about gentrification and unpack them using data visualizations. The call-to-action at the end will include information on supporting local businesses, advocating for fair housing policies, connecting with local representatives, and voting in local elections.
 
 ## Initial Sketches
-You can explore my initial sketch [here](link).
+You can explore my initial sketch [here](https://drive.google.com/file/d/1gl4KRSBscs4owJl5wJBBNSPr-Yysc-Qd/view?usp=sharing).
 
 ## Data
 The publicly available datasets (see below) will allow me to conduct in-depth analysis and tell a story about the effects of gentrification. I need information from 2000 to 2010 to show the change, which will require me to utilize two datasets for each predictor (median value of home, percentage of those possessing a Bachelor's degree, and median household income).
