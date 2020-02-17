@@ -8,11 +8,13 @@ As part of part one, I developed a story arc focused on gentrification of neighb
 
 I created a few sketches to present to four friends and approached them informally for their feedback. I asked them the following four questions: (1) Do you understand what gentrification is better? (2) Is my storyline complete or should I add something else? (3) What were your favorite parts and why? and (4) Is there something you think I should elaborate on? This all happened while we were studying together over the weekend. Although, I was sure to separate them and talk to them one-on-one to avoid redundant feedback.
 
+### [See my initial sketches here](https://drive.google.com/file/d/1l_0VfylqzyqZv-rt4eDZbzXu4qPhQjfE/view?usp=sharing)
+
 ## Protocol & Feedback:
 
 My target audience is anyone who is interested in gentrification, people moving to Chicago who may be interested in learning more about neighborhoods, and former and current "gentrifiers". I asked a group of graduate students who are going to earn higher salaries and move to big cities upon graduation. These are people who could be gentrifiers and need to know what the impacts on the community can be. 
 
-### Interview Script:
+### Interview Script & Feedback:
 "Hi _____. As you know, I am currently enrolled in a Data Visualization course at Heinz. I am working on a final project on gentrification and will be focusing on my hometown, Chicago. I would love to hear your thoughts on my story. I am specifically looking for feedback on (1) if my story makes sense  and (2) what are some of the ways my visualizations can be made more appealing and interactive. Let's get started!"
 
 #### Selected responses to first question: Do you understand what gentrification is better?
@@ -71,9 +73,11 @@ Person#4: "Yeah, I think maybe the format can be more interactive and pictures c
 - Need to do more research on changes in income and other factors (to be continued).
 
 #### Feedback Incorporated on Page#8:
-- Call to Action was well-received and I received very little feedback on it. Just made it more visually appealing .
+- Call to Action was well-received and I received very little feedback on it. Just made it more visually appealing.
 
-## Reflection
+### [See my revised digital sketches here](https://drive.google.com/file/d/13LqDoYTauugISY7ISi9iA-cyNJi3ksUM/view?usp=sharing)
+
+## Reflection:
 
 Overall, I really enjoyed hearing people's ideas and quickly realized how difficult this topic is to visualize. I will do my best to make sure it is clear and concise and plan to meet with Professor Goransen over the next two weeks to get his feedback. I realized the value in seeking feedback from others because that were obvious to me were not as obvious to them. I also liked their candidness, even though they were my friends. I am looking forward to continuing working on this!
 
