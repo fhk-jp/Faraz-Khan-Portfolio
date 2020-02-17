@@ -54,6 +54,7 @@ Person#4: "Yeah, I think maybe the format can be more interactive and pictures c
 #### Feedback Incorporated on Page#1:
 - Emphasized certain words in the definition to make it stand out more.
 - Added more context on why Chicago.
+- Corrected facts on gentrification rates.
 
 #### Feedback Incorporated on Page#2:
 - Added why gentrification is a problem in the problemt statement.
