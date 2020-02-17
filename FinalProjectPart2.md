@@ -12,7 +12,7 @@ I created a few sketches to present to four friends and approached them informal
 
 My target audience is anyone who is interested in gentrification, people moving to Chicago who may be interested in learning more about neighborhoods, and former and current "gentrifiers". I asked a group of graduate students who are going to earn higher salaries and move to big cities upon graduation. These are people who could be gentrifiers and need to know what the impacts on the community can be. 
 
-#### Interview Script:
+### Interview Script:
 "Hi _____. As you know, I am currently enrolled in a Data Visualization course at Heinz. I am working on a final project focused on gentrification and will be focusing on my hometown, Chicago. I would love to hear your thoughts on my story. I am specifically looking for feedback on (1) if my story makes sense  and (2) what are some of the ways my visualizations can be made more appealing and interactive. Let's get started!"
 
 ##### Selected responses to first question:
