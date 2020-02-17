@@ -57,7 +57,7 @@ Person#4: "Yeah, I think maybe the format can be more interactive and pictures c
 
 #### Feedback Incorporated on Page#2:
 - Added why gentrification is a problem in the problemt statement.
-- Made methodology more clear to the reader by hihlighting percentiles and benchmarks.
+- Made methodology more clear to the reader by higlighting percentiles and benchmarks.
 
 #### Feedback Incorporated on Pages#3-6:
 - Changed the intervals to say "gain" instead of "increase" and added "decrease" after a friend pointed out that populations could also decrease given certain parameters. 
