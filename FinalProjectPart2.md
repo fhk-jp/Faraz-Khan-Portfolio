@@ -12,7 +12,7 @@ I created a few sketches to present to four friends and approached them informal
 
 ## Protocol & Feedback:
 
-My target audience is anyone who is interested in gentrification, people moving to Chicago who may be interested in learning more about neighborhoods, and former and current "gentrifiers". I asked a group of graduate students who are going to earn higher salaries and move to big cities upon graduation. These are people who could be gentrifiers and need to know what the impacts on the community can be. 
+My target audience is anyone who is interested in gentrification, people moving to Chicago who may be interested in learning more about neighborhoods, and former and current "gentrifiers". I asked a group of graduate students who are going to earn higher salaries and move to big cities upon graduation. These are people who could be gentrifiers and need to know what the impacts on the community can be. I just chose this sample because I happened to be studying with them and I used an informal structure to conduct the interviews.
 
 ### Interview Script & Feedback:
 "Hi _____. As you know, I am currently enrolled in a Data Visualization course at Heinz. I am working on a final project on gentrification and will be focusing on my hometown, Chicago. I would love to hear your thoughts on my story. I am specifically looking for feedback on (1) if my story makes sense  and (2) what are some of the ways my visualizations can be made more appealing and interactive. Let's get started!"
@@ -79,5 +79,5 @@ Person#4: "Yeah, I think maybe the format can be more interactive and pictures c
 
 ## Reflection:
 
-Overall, I really enjoyed hearing people's ideas and quickly realized how difficult this topic is to visualize. I will do my best to make sure it is clear and concise and plan to meet with Professor Goransen over the next two weeks to get his feedback. I realized the value in seeking feedback from others because that were obvious to me were not as obvious to them. I also liked their candidness, even though they were my friends. I am looking forward to continuing working on this!
+Overall, I really enjoyed hearing people's ideas and quickly realized how difficult this topic is to visualize. The feedback I received pushed me to think more critically about my message and be intentional about my design. I will do my best to make sure that my story is clear and plan to meet with Professor Goransen over the next two weeks to get his feedback. I realized the value in seeking feedback from others because things that were obvious to me were not as obvious to them. I also liked their candidness, even though they were my friends. I am looking forward to continuing working on this!
 
