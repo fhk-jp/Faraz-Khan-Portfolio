@@ -51,25 +51,28 @@ Person#3: "Define your problem statement more. This may not seem like a problem 
 
 Person#4: "Yeah, I think maybe the format can be more interactive and pictures can certainly help!"
 
-
 #### Feedback Incorporated on Page#1:
-
-
+- Emphasized certain words in the definition to make it stand out more.
+- Added more context on why Chicago.
 
 #### Feedback Incorporated on Page#2:
-
-
-
+- Added why gentrification is a problem in the problemt statement.
+- Made methodology more clear to the reader by hihlighting percentiles and benchmarks.
 
 #### Feedback Incorporated on Pages#3-6:
-
+- Changed the intervals to say "gain" instead of "increase" and added "decrease" after a friend pointed out that populations could also decrease given certain parameters. 
+- Added broader intervals and more categories to show the spread.
+- Made the map colors more visually appealing and more neutraL.
+- Completed the maps using test data in ArcGIS.
 
 #### Feedback Incorporated on Page#7:
-
+- Added more information on why Pilsen and how gentrification affected longtime residents of Pilsen.
+- Need to do more research on changes in income and other factors (to be continued).
 
 #### Feedback Incorporated on Page#8:
+- Call to Action was well-received and I received very little feedback on it. Just made it more visually appealing .
 
+## Reflection
 
-
- 
+Overall, I really enjoyed hearing people's ideas and quickly realized how difficult this topic is to visualize. I will do my best to make sure it is clear and concise and plan to meet with Professor Goransen over the next two weeks to get his feedback. I realized the value in seeking feedback from others because that were obvious to me were not as obvious to them. I also liked their candidness, even though they were my friends. I am looking forward to continuing working on this!
 
