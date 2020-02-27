@@ -39,6 +39,8 @@ Another analysis I would have loved to conduct, if I had the time, would have be
 #### Articles:
 Krantz, Rachel. “Can You Be A Good Neighbor If You're A Gentrifier?” Bustle, Bustle, 7 July 2016, www.bustle.com/articles/171201-can-you-be-a-good-neighbor-if-youre-a-gentrifier-9-tips-from-advocates.
 
+“Gentrification.” Merriam-Webster, Merriam-Webster, www.merriam-webster.com/dictionary/gentrification.
+
 “Gentrification in America Report.” Governing, www.governing.com/gov-data/census/gentrification-in-cities-governing-report.html.
 
 Lulay, Stephanie. “Pilsen Gets Whiter As 10,000 Hispanics, Families Move Out, Study Finds.” DNAinfo Chicago, DNAinfo Chicago, 13 Apr. 2016, www.dnainfo.com/chicago/20160413/pilsen/pilsen-gets-whiter-as-10000-hispanics-families-move-out-study-finds/.
