@@ -39,6 +39,7 @@ Another analysis I would have loved to conduct, if I had the time, would have be
 ## Sources:
 
 #### Articles:
+
 Krantz, Rachel. “Can You Be A Good Neighbor If You're A Gentrifier?” Bustle, Bustle, 7 July 2016, www.bustle.com/articles/171201-can-you-be-a-good-neighbor-if-youre-a-gentrifier-9-tips-from-advocates.
 
 “Gentrification.” Merriam-Webster, Merriam-Webster, www.merriam-webster.com/dictionary/gentrification.
@@ -48,6 +49,8 @@ Krantz, Rachel. “Can You Be A Good Neighbor If You're A Gentrifier?” Bustle,
 Lulay, Stephanie. “Pilsen Gets Whiter As 10,000 Hispanics, Families Move Out, Study Finds.” DNAinfo Chicago, DNAinfo Chicago, 13 Apr. 2016, www.dnainfo.com/chicago/20160413/pilsen/pilsen-gets-whiter-as-10000-hispanics-families-move-out-study-finds/.
 
 Maciag, Michael. “Chicago Gentrification Maps and Data.” Governing, www.governing.com/gov-data/chicago-gentrification-maps-demographic-data.html.
+
+“The 30 Most Populous Cities.” NLC National League of Cities, www.nlc.org/the-30-most-populous-cities.
 
 #### Images Used:
 [Title Photo](https://upload.wikimedia.org/wikipedia/commons/2/26/Cabrini_green_demolition_2.jpg)
