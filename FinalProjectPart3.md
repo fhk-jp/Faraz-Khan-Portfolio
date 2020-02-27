@@ -36,4 +36,17 @@ Another analysis I would have loved to conduct, if I had the time, would have be
 
 ## Sources:
 
+#### Articles:
+
+#### Images Used:
+[Title Photo](https://upload.wikimedia.org/wikipedia/commons/2/26/Cabrini_green_demolition_2.jpg)
+[“Get Out Photo” by Ariel Cheung](http://www.arielcheung.net/photos.html)
+[“Luxury=Displacement” phot by Harry Huggins](https://news.medill.northwestern.edu/chicago/logan-square-protesters-fear-gentrification/)
+[“Transition from 2000 to 2010” photo by James & Karla Murray](https://www.facebook.com/jamesandkarlamurrayphotography/photos/a.633202406731377.1073741832.225024807549141/638703149514636/?type=3&theater)
+[“Vacant Buildings” photo by Library of Congress](https://journalistsresource.org/studies/economics/real-estate/gentrification-urban-displacement-affordable-housing-overview-research-roundup/)
+[“Chicago Skyline” photo by Muzammil Soorma](https://unsplash.com/@muzammilo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[“Pilsen is not for Sale” Photo](https://interactive.wttw.com/my-neighborhood/pilsen/gentrification)
+[“Stop Gentrification” photo](https://www.chicagoreader.com/chicago/transit-oriented-development-cta-displacement-logan-square/Content?oid=21780147)
+
+
 
