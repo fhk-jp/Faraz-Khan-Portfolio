@@ -13,3 +13,4 @@ I hope to learn how to create accessible and meaningful visualizations of comple
 ## [Data Visualization Assignments#3&4: Critique by Design](https://khanfh16.github.io/KhanPortfolio/dataviz3.html)
 ## [Final Project - Part 1](https://khanfh16.github.io/KhanPortfolio/FinalProjectPart1.html)
 ## [Final Project - Part 2](https://khanfh16.github.io/KhanPortfolio/FinalProjectPart2.html)
+## [Final Project - Part 3](https://khanfh16.github.io/KhanPortfolio/FinalProjectPart3.html)
