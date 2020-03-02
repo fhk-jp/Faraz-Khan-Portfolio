@@ -1,7 +1,7 @@
 # Faraz Khan Portfolio
 A plethora of my data visualization work.
 
-# About Me:
+# About Me
 Hello! My name is Faraz Khan and I am currently a graduate student pursuing a Master of Science in Public Policy and Management at Carnegie Mellon. My pronouns are He/Him/His. I am a proud Chicagoan that loves deep dish pizza and enjoys reading articles focused on international affairs. I am excited for my Telling Stories with Data class this semester. A fun fact about me is that my older sister and I share the same birthday, but we were born nine years apart. Sharing the same birthday always results in more cake!
 
 # What I hope to learn
