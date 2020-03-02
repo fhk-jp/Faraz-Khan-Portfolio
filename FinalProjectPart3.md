@@ -11,17 +11,17 @@ I did not develop any personas formally, but thought about them to a certain ext
 When I first researched this topic, I came across the wonderful research done by Governing on gentrification. They used data from decennial census as well, but their visualizations are at the tract-level. As a Chicagoan, I realized that using tract-level is more detailed and accurate, but what if I focused on neighborhoods instead? That’s more intuitive to most Chicago residents and most of them already know something about each neighborhood. Therefore, I used data from the decennial census as well:
 
 #### Median Value of Home:
-[Median Value of Home, by Census Tract (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_SF4_B25077&prodType=table)
+[Median Value of Home, by Census Tract (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B25077&prodType=table)
 
-[Median Value of Home, by Census Tract (2000 SF-4)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF4_HCT066&prodType=table)
+[Median Value of Home, by Census Tract (2000 SF-4)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF3_H076&prodType=table)
 
 #### Percentage of the population 25+ years of age holding a Bachelor’s Degree:
 [Bachelor’s Degree for Population 25+ Years Old (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_S1501&prodType=table)
 
-[Bachelor’s Degree for Population 25+ Years Old (2000 SF-3)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF3_QTP20&prodType=table)
+[Bachelor’s Degree for Population 25+ Years Old (2000 SF-4)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF4_QTP20&prodType=table)
 
 #### Median Household Income (Inflation-Adjusted):
-[Median Household Income, by Census Tract (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_B19013&prodType=table)
+[Median Household Income, by Census Tract (2010 ACS 5-Year Estimate)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_5YR_S1903&prodType=table)
 
 [Median Household Income, by Census Tract (2000 SF-3)](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_00_SF3_P053&prodType=table)
 
