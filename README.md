@@ -1,4 +1,4 @@
-# KhanPortfolio
+# Faraz Khan Portfolio
 A plethora of my data visualization work.
 
 # About Me:
