@@ -57,7 +57,7 @@ Maciag, Michael. “Chicago Gentrification Maps and Data.” Governing, www.gove
 
 [“Get Out Photo” by Ariel Cheung](http://www.arielcheung.net/photos.html)
 
-[“Luxury=Displacement” phot by Harry Huggins](https://news.medill.northwestern.edu/chicago/logan-square-protesters-fear-gentrification/)
+[“Luxury=Displacement” photo by Harry Huggins](https://news.medill.northwestern.edu/chicago/logan-square-protesters-fear-gentrification/)
 
 [“Transition from 2000 to 2010” photo by James & Karla Murray](https://www.facebook.com/jamesandkarlamurrayphotography/photos/a.633202406731377.1073741832.225024807549141/638703149514636/?type=3&theater)
 
