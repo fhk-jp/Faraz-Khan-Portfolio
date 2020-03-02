@@ -21,7 +21,7 @@ After reviewing data on general government debt-to-GDP ratio, I instantly notice
 
 ## Stay tuned for more visualizations!
 
-Interested in seeing more visualizations by me? Please [visit my main portfolio page!](https://github.com/khanfh16/KhanPortfolio)
+Interested in seeing more visualizations by me? Please [visit my main portfolio page!](https://khanfh16.github.io/Faraz-Khan-Portfolio/)
 
 ## Sources:
 ##### OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)
